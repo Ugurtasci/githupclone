@@ -9,4 +9,4 @@ Bu proje, Sass (Syntactically Awesome Style Sheets) kullanarak CSS'in gelişmiş
 
  <h3>Ekran Görüntüsü</h3>
 
- ![](ekran-görüntüsü.gif)
+![ekran görüntüsü](https://github.com/Ugurtasci/githupclone/assets/146867143/1928731c-191b-4626-91dd-4bc4220cf433)
